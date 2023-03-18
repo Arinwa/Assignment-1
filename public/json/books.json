@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Prohaska, Huel and Fay",
+    "author": "Staffard Fearnsides",
+    "description": "Kerluke-Wolf",
+    "category": "UX",
+    "price": "$176.13"
+  },
+  {
+    "id": 2,
+    "title": "Haley and Sons",
+    "author": "Mella Birtley",
+    "description": "Armstrong Group",
+    "category": "UX",
+    "price": "$135.00"
+  },
+  {
+    "id": 3,
+    "title": "Feil-Huel",
+    "author": "Paloma Kopacek",
+    "description": "Rowe-Reynolds",
+    "category": "UX",
+    "price": "$184.96"
+  },
+  {
+    "id": 4,
+    "title": "Jacobson-Pollich",
+    "author": "Gregg Newbury",
+    "description": "Leuschke Inc",
+    "category": "UX",
+    "price": "$218.23"
+  },
+  {
+    "id": 5,
+    "title": "Responsive design with Bootstrap",
+    "author": "Feliks Sheddan",
+    "description": "Turcotte and Sons",
+    "category": "UX",
+    "price": "$201.80"
+  },
+  {
+    "id": 6,
+    "title": "Koch-Sawayn",
+    "author": "Carlen Pheazey",
+    "description": "Feil-Volkman",
+    "category": "HTML",
+    "price": "$127.75"
+  },
+  {
+    "id": 7,
+    "title": "Moen, Gorczany and Marks",
+    "author": "Cassondra Sone",
+    "description": "Dickinson, Ortiz and Schulist",
+    "category": "HTML",
+    "price": "$164.59"
+  },
+  {
+    "id": 8,
+    "title": "Harber-Hahn",
+    "author": "Phaedra Thorius",
+    "description": "Jaskolski-Runolfsson",
+    "category": "HTML",
+    "price": "$136.42"
+  },
+  {
+    "id": 9,
+    "title": "Kunze, Kovacek and Douglas",
+    "author": "Ashli McAster",
+    "description": "Barton, Gusikowski and Bradtke",
+    "category": "HTML",
+    "price": "$173.31"
+  },
+  {
+    "id": 10,
+    "title": "HTML - an introduction",
+    "author": "Coriss Kenworth",
+    "description": "DuBuque Inc",
+    "category": "HTML",
+    "price": "$177.77"
+  },
+  {
+    "id": 11,
+    "title": "Kuphal-Kuvalis",
+    "author": "Jessika Tickle",
+    "description": "Wehner-Sanford",
+    "category": "CSS",
+    "price": "$109.51"
+  },
+  {
+    "id": 12,
+    "title": "Romaguera-Mraz",
+    "author": "Janene Clorley",
+    "description": "Considine and Sons",
+    "category": "CSS",
+    "price": "$133.44"
+  },
+  {
+    "id": 13,
+    "title": "Cummings-Hills",
+    "author": "Caprice Tacker",
+    "description": "Hintz-Miller",
+    "category": "CSS",
+    "price": "$116.14"
+  },
+  {
+    "id": 14,
+    "title": "Beier, Hegmann and Stamm",
+    "author": "Bessie Pernell",
+    "description": "Prosacco-Turner",
+    "category": "CSS",
+    "price": "$147.71"
+  },
+  {
+    "id": 15,
+    "title": "CSS - an introduction",
+    "author": "Lea McCarthy",
+    "description": "Dach, Schowalter and Lebsack",
+    "category": "CSS",
+    "price": "$153.33"
+  },
+  {
+    "id": 16,
+    "title": "Casper-Ward",
+    "author": "Bryanty Mallindine",
+    "description": "Dietrich, Rodriguez and Walker",
+    "category": "JavaScript",
+    "price": "$132.22"
+  },
+  {
+    "id": 17,
+    "title": "Herman, Luettgen and Leuschke",
+    "author": "Judah Fosdyke",
+    "description": "Kunze Inc",
+    "category": "JavaScript",
+    "price": "$219.35"
+  },
+  {
+    "id": 18,
+    "title": "Pouros-Ward",
+    "author": "Doris Lynch",
+    "description": "Robel Inc",
+    "category": "JavaScript",
+    "price": "$101.09"
+  },
+  {
+    "id": 19,
+    "title": "Toy, Moen and Parker",
+    "author": "Gabriel Scoates",
+    "description": "Lynch-Gutkowski",
+    "category": "JavaScript",
+    "price": "$123.76"
+  },
+  {
+    "id": 20,
+    "title": "SJavaScript - an introduction",
+    "author": "Lynn Grummitt",
+    "description": "Herman Group",
+    "category": "JavaScript",
+    "price": "$134.76"
+  }
+]

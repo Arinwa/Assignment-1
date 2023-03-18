@@ -1,0 +1,37 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  background-color: rgb(57, 94, 149);
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.book {
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.book p span {
+  display: inline-block;
+  width: 130px;
+}
+
+.filters,
+.sortingOptions {
+  color: white;
+}
+
+label span {
+  padding-left: 20px;
+  display: inline-block;
+  width: 150px;
+}
